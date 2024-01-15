@@ -21,10 +21,9 @@
 
 ## Stack
 
-- [**Vue 3**](https://v3.vuejs.org/) - The latest version of Vue.js, introducing new features and improvements.
+- [**React**](https://reactjs.org/) - A JavaScript library for building user interfaces.
+- [**Scss**](https://sass-lang.com/) - A CSS extension language, adding features like variables and nested rules.
 - [**Vite**](https://vitejs.dev/) - A fast and efficient front-end build tool for modern web development.
-- [**Tailwind CSS**](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom designs.
-- [**Pinia**](https://pinia.esm.dev/) - Intuitive and type-safe store for Vue 3, providing state management.
 
 ##  License
 
