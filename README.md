@@ -25,6 +25,4 @@
 - [**Scss**](https://sass-lang.com/) - A CSS extension language, adding features like variables and nested rules.
 - [**Vite**](https://vitejs.dev/) - A fast and efficient front-end build tool for modern web development.
 
-##  License
 
-[MIT](#) - Created by [**Franco Sbaffi**](https://www.linkedin.com/in/franco-sbaffi/).
